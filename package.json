@@ -1,0 +1,16 @@
+{
+  "name": "cap-developer-challenge",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "cds run",
+    "dev": "cds watch"
+  },
+  "dependencies": {
+    "@sap/cds": "^7",
+    "@sap/cds-dk": "^7",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1.0.0"
+  }
+}
